@@ -23,11 +23,6 @@ WeatherNow is a responsive weather forecasting web application that shows curren
 
 ---
 
-## 📸 Screenshots
-(Add screenshots here)
-
----
-
 ## ⚙ How To Run
 
 1. Download or clone repository  
